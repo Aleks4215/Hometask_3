@@ -1,0 +1,12 @@
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/obj/Debug/netcoreapp3.1/CreditCalc.csprojAssemblyReference.cache
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/obj/Debug/netcoreapp3.1/CreditCalc.AssemblyInfoInputs.cache
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/obj/Debug/netcoreapp3.1/CreditCalc.AssemblyInfo.cs
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/bin/Debug/netcoreapp3.1/CreditCalc.deps.json
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/bin/Debug/netcoreapp3.1/CreditCalc.runtimeconfig.json
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/bin/Debug/netcoreapp3.1/CreditCalc.runtimeconfig.dev.json
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/bin/Debug/netcoreapp3.1/CreditCalc.dll
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/bin/Debug/netcoreapp3.1/CreditCalc.pdb
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/obj/Debug/netcoreapp3.1/CreditCalc.dll
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/obj/Debug/netcoreapp3.1/CreditCalc.pdb
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/obj/Debug/netcoreapp3.1/CreditCalc.csproj.CoreCompileInputs.cache
+/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/obj/Debug/netcoreapp3.1/CreditCalc.genruntimeconfig.cache
