@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/CreditCalc.csproj",
+      "projectUniqueName": "/Users/aleksejevmenkov/Hometask_3/hometask3/CreditCalc/CreditCalc/CreditCalc.csproj",
       "projectName": "CreditCalc",
-      "projectPath": "/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/CreditCalc.csproj",
+      "projectPath": "/Users/aleksejevmenkov/Hometask_3/hometask3/CreditCalc/CreditCalc/CreditCalc.csproj",
       "packagesPath": "/Users/aleksejevmenkov/.nuget/packages/",
-      "outputPath": "/Users/aleksejevmenkov/Projects/CreditCalc/CreditCalc/obj/",
+      "outputPath": "/Users/aleksejevmenkov/Hometask_3/hometask3/CreditCalc/CreditCalc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aleksejevmenkov/.config/NuGet/NuGet.Config"
